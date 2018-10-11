@@ -1,0 +1,513 @@
+/* Top Carousel */
+
+#topbanner {
+  background: url("../images/chiropractors-banner-img.jpg") no-repeat center;
+  width: 100%;
+  height: 100%;
+  height: 400px;
+  background-position: center center;
+  background-size: cover;
+}
+
+.finding-chiropractor {
+  padding-bottom: 30px;
+}
+
+.finding-chiropractor p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: #5b5b5b;
+  line-height: 30px;
+  letter-spacing: 1px;
+}
+
+.finding-chiropractor a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  color: #2b7d80;
+  line-height: 30px;
+  letter-spacing: 1px;
+  margin-left: 25px;
+}
+
+.finding-chiropractor li {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  letter-spacing: 1px;
+  color: #5b5b5b;
+  line-height: 30px;
+}
+
+.listing a {
+  font-size: 16px !important;
+  color: #D95E61;
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+.finding-chiropractor h1 {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  font-size: 38px;
+  font-weight: bold;
+  color: #2b7d80 !important;
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
+
+.finding-chiropractor h2 {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  font-size: 35px;
+  font-weight: bold;
+  color: #2b7d80 !important;
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+
+
+.video {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  color: #5b5b5b;
+  padding-top: 50px !important;
+  letter-spacing: 1px;
+  padding-bottom: 40px;
+}
+
+.chiropractic-benefits {
+  background-color: #f2f4f4;
+  margin-top: -10px;
+}
+
+.chiropractic-benefits img {
+  width: 40%;
+}
+
+.chiropractic-benefits h2 {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  font-size: 38px;
+  font-weight: bold;
+  color: #2b7d80 !important;
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
+
+.benefits {
+  padding-top: 30px !important;
+}
+
+.benefits h3 {
+  font-weight: bold;
+  font-size: 20px;
+  color: #5b5b5b;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.benefits p {
+  padding-top: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: #5b5b5b;
+  line-height: 22px;
+  letter-spacing: 1px;
+}
+
+.chiropractor-parallax {
+  background: url("../images/chiropractor-parallax.jpg") no-repeat center;
+  height: 300px;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: 100% 100%;
+}
+
+.chiropractic-treatment {
+  background: url("../images/chiropractor-practice.jpg") no-repeat center;
+  height: auto;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: 100% 100%;
+}
+
+.chiropractic-treatment h3 {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  font-size: 50px;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  line-height: 70px;
+  font-weight: bold;
+  color: #ffffff;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.4), 0px 18px 23px rgba(0, 0, 0, 0.4);
+}
+
+.glyphicon-triangle-right {
+  position: relative;
+  top: 2px;
+  font-size: 14px;
+}
+
+#blog-btn {
+  background-color: #D95E61;
+  color: #ffffff;
+  border-radius: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  padding: 10px 25px 10px 25px;
+  margin-top: 20px;
+}
+
+.btn-padding {
+  padding-bottom: 180px !important;
+}
+
+.conclusion {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.conclusion p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: #5b5b5b;
+  line-height: 30px;
+  letter-spacing: 1px;
+}
+
+#find-therapist {
+  background-color: #D95E61;
+  color: #ffffff;
+  border-radius: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  padding: 20px;
+}
+
+.full-profile {
+  margin-left: 10px;
+  background-color: #D95E61;
+  color: #ffffff;
+  border-radius: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  padding: 10px 15px 10px 15px;
+  margin-top: 30px;
+}
+
+.profile-note {
+  padding-top: 30px;
+  margin-left: 40px;
+}
+
+.listing-btn {
+  padding-bottom: 150px;
+}
+
+.why-get-listed {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+/* City Pages-----*/
+
+.city-banner {
+  background: url("../images/chiropractor-practice.jpg") no-repeat center;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+}
+
+.city-listing {
+  padding-bottom: 30px;
+}
+
+.city-listing p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  color: #5b5b5b;
+  line-height: 28px;
+}
+
+.city-listing h1 {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  font-size: 38px;
+  font-weight: bold;
+  color: #2b7d80 !important;
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
+
+#listings {
+  padding-top: 100px;
+}
+
+#listings h3 {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#listings h4 {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#listings p {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  font-size: 18px;
+  color: #494949;
+}
+
+.chiropractors-details {
+  color: #929092 !important;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  font-size: 16px !important;
+  margin-left: 20px;
+}
+
+.details {
+  padding-left: 30px;
+  margin-top: -15px;
+}
+
+/* Apply to be listed Page -------*/
+
+.apply-to-be-listed {
+  padding-bottom: 80px;
+}
+
+.apply-to-be-listed li {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: #727272;
+  line-height: 28px;
+}
+
+.important-note {
+  padding-bottom: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 28px !important;
+  color: #2b7d80 !important;
+  text-align: center;
+  font-weight: bold;
+}
+
+.apply-to-be-listed p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: #727272;
+  line-height: 28px;
+}
+
+.apply-to-be-listed h3 {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #2b7d80 !important;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.listing-page-banner {
+  background: url("../images/chiropractor-parallax.jpg") no-repeat center;
+  width: 100%;
+  height: 100%;
+  height: 400px;
+  background-size: cover;
+}
+
+
+.chiropractors-marketing {
+  background: url("../images/listing-benefits.jpg") no-repeat center;
+  height: auto;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center !important;
+}
+
+.chiropractors-marketing p {
+  font-size: 50px;
+  color: #ffffff;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  line-height: 70px;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.4), 0px 18px 23px rgba(0, 0, 0, 0.4);
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+
+
+
+
+.breadcrumb {
+  background-color: #ffffff;
+  font-size: 12px;
+  font-family: 'Montserrat', sans-serif !important;
+  padding-top: 20px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.profile {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.profile h2 {
+  color: #424242;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.chiropractor-info {
+  color: #929092;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  padding-top: 30px;
+  font-size: 18px;
+  margin-left: 40px;
+}
+
+.about-chiropractor {
+  margin-top: 30px !important;
+}
+
+.about-chiropractor h5 {
+  color: #444444;
+  letter-spacing:1px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  padding-top: 30px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.about-chiropractor p {
+  color: #929092;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.about-chiropractor li {
+  color: #929092;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.terms p {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  color: #606060;
+}
+
+.terms h2 {
+  padding-top: 50px;
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 35px;
+  color: #515151;
+  font-weight: bold;
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+
+@media only screen and (max-width: 480px) {
+	
+  #topbanner {
+    height: 300px;
+  }
+  .finding-chiropractor h1 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+
+  .chiropractic-treatment h3 {
+    font-size: 35px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    line-height: 45px;
+  }
+
+  #find-therapist {
+    font-size: 18px;
+    padding: 10px;
+  }
+  #find-btn {
+    font-size: 16px;
+    padding: 16px 12px 16px 12px;
+    margin-top: 20px;
+  }
+  .website-link {
+    font-size: 20px;
+  }
+  .chiropractors-marketing p {
+    font-size: 40px;
+    line-height: 45px;
+    
+  }
+
+  .full-profile {
+   padding-left: 10px;
+   padding-right: 10px;
+   margin-left: -10px;
+   font-size: 14px; 
+  }
+	
+  .profile-note {
+    margin-left: 0px;
+  }
+	
+  .chiropractor-info {
+    margin-left: 0px;
+  }
+	
+	h1 {
+		font-size: 30px !important;
+	}
+
+  .chiropractor-parallax {
+  background: url("../images/chiropractor-parallax-mobile.jpg") no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: 100% 100%;
+}
+	
+}
+
+@media only screen and (min-width: 480px) and (max-width: 1024px) {
+	
+  #topbanner {
+    height: 350px;
+  }
+
+  .chiropractic-treatment h3 {
+    font-size: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    line-height: 45px;
+  }
+	
+}
+
